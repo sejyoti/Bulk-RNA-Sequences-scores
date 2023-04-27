@@ -1,1 +1,1 @@
-# Bulk-RNA-Sequences-scores
+# Bulk-RNA-Sequence-scores
